@@ -24,4 +24,3 @@ async function addEncryptedObject(cleartext, dids) {
 
 await addEncryptedObject({ hello: 'secret' }, [did.id])
 
-// testing lazygit
